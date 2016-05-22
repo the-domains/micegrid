@@ -1,0 +1,14 @@
+layout_spectrum: 0.35711913369596004
+typography_spectrum: 0.894017398590222
+color:
+  brandStrength: 0.14274134929291904
+  lightness: 0.680710791843012
+  saturation: 0.2376596590038389
+  rhythmicContrast: 0.1184559790417552
+  brandColors:
+    - '#3E454C'
+    - '#2185C5'
+    - '#7ECEFD'
+    - '#FFF6E5'
+    - '#FF7F66'
+name: micegrid
